@@ -6,3 +6,6 @@ Also I'm bike home mechanic - so reach me if you need any help with your bike.
 
 ## Blog posts:
 * [0/1 — Auth with Rails, GraphQL and React @Medium](https://link.medium.com/I7wzp3jYG9)
+
+
+[Die hard](b/trust.md)
